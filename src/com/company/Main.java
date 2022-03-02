@@ -10,5 +10,6 @@ public class Main {
     public  void Printlnlnln(){
             int ab;
         }
+        int a =0;
     }
 }
