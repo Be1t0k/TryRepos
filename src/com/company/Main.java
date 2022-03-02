@@ -7,7 +7,7 @@ public class Main {
         for (int i = 0; i < 10; i++){
             System.out.println(i);
         }
-    public void Print(){
+    public  void Printlnlnln(){
             int a;
         }
     }
