@@ -7,6 +7,8 @@ public class Main {
         for (int i = 0; i < 10; i++){
             System.out.println(i);
         }
-        System.out.println("Bye 3");
+    public void Print(){
+            int a;
+        }
     }
 }
